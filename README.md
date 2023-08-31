@@ -53,7 +53,7 @@ I used a mobile first approach to develop this process, beginning with the mobil
 
 ### What I learned
 
-This was a straightforward project and great practice at using Flexbox to align elements as desired. Additionally, I learned that :hover can be applied to elements beyond `a` tags/links and expanded my use of the ::before attribute in my CSS to adjust the width, height, opacity, color and other properties of the layer overlay on the NFT image to align with the design specs. This was a fun project that demonstrated how my frontend dev skills have developd over the past 8 months.
+This was a straightforward project and great practice at using Flexbox to align elements as desired. Additionally, I learned that :hover can be applied to elements beyond `a` tags/links and expanded my use of the ::before attribute in my CSS to adjust the width, height, opacity, color and other properties of the layer overlay on the NFT image to align with the design specs. This was a fun project that demonstrated how my frontend dev skills have developed over the past 8 months.
 
 A code snippet that I'm proud of:
 
