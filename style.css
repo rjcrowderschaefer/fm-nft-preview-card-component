@@ -148,7 +148,6 @@ h1:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    /* align-items: baseline; */
     margin-left: 24.5px;
     margin-right: 24.5px;
 }
@@ -222,4 +221,43 @@ hr {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (min-width: 1440px) {
+
+main {
+    width: 350px;
+    height: 590px;
+}
+
+#nft-img {
+    width: 302px;
+    height: 302px;
+}
+
+.description {
+    margin-right: 25px;
+}
+
+.currency {
+    font-size: 1.6rem;
+}
+
+.time-remaining {
+    font-size: 1.6rem;
+}
+
+.creator-info {
+    font-size: 1.6rem;
+}
+
+.overlay::before {
+    width: 302px;
+    height: 302px;
+}
+
+.view {
+    left: 151px;
+}
+
 }
