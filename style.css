@@ -65,7 +65,6 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     width: 327px;
     height: 554px;
     background-color: #15263F;
